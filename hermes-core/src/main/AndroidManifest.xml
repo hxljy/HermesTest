@@ -1,0 +1,12 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hxl.hermes.core" >
+
+
+    <application>
+
+        <service android:name="com.hxl.hermes.core.service.HermesService" />
+
+    </application>
+
+
+</manifest>
